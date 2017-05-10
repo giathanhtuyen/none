@@ -5,3 +5,6 @@ Thiết kế riêng
 http://www.jqueryscript.net/other/jQuery-Plugin-To-Create-An-Alphabetical-Navigation-Filter-listnav.html
 
 http://www.faridesign.net/2012/10/letter-based-navigation-using-jquery/
+
+css cho list nút 
+https://www.packtpub.com/books/content/simple-alphabetical-glossary-using-jquery
